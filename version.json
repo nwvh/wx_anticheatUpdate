@@ -1,4 +1,4 @@
 {
-	"version": "3.0",
-	"changelog": "Major update finally out! Including new and improved detections, deferrals\n support and more! Please download the new version from your keymaster"
+	"version": "3.5",
+	"changelog": "NEW AntiAFK system, better detection system, new detections, and updated deferral cards. Also includes a few bug fixes and cleaner config file!"
 }
