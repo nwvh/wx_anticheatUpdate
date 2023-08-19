@@ -1,4 +1,4 @@
 {
-	"version": "3.5",
-	"changelog": "NEW AntiAFK system, better detection system, new detections, and \nupdated deferral cards. Also includes a few bug fixes and cleaner config file!"
+	"version": "3.6",
+	"changelog": "Rewritten detection system and cleaner config file. Fixed 'Failed to fetch' index.js error in F8"
 }
