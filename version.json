@@ -1,4 +1,4 @@
 {
-	"version": "3.6",
-	"changelog": "Rewritten detection system and cleaner config file. Fixed 'Failed to fetch' index.js error in F8"
+	"version": "3.65",
+	"changelog": "Fixed bans not being saved into database\nFixed logs not being sent\nRewritten ban checking and saving system\nRewritten discord,ban and blacklisted name connect checking,they are also now in all deferral cards.\nNew option for 'Connecting...' text while connecting.\nConsole prints edits\nOption to add IP logs to spoiler tag\nIP log is now clickable and redirects you to a website with the IP info.\nSome more little bug fixes and optimalization..."
 }
