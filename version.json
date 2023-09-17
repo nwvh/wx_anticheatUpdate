@@ -1,4 +1,4 @@
 {
-	"version": "3.65+QUICKFIX",
-	"changelog": "Fixed OCR, Fixed false noclip detections"
+	"version": "3.7",
+	"changelog": " NEW ADMIN SYSTEM INCLUDING TXADMIN INTEGRATION\nDetection sharing\n Maximum username length feature\n New unbanning webhook logging \n Bug fixes... "
 }
