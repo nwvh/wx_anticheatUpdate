@@ -1,4 +1,4 @@
 {
-	"version": "3.7",
-	"changelog": " NEW ADMIN SYSTEM INCLUDING TXADMIN INTEGRATION\nDetection sharing\n Maximum username length feature\n New unbanning webhook logging \n Bug fixes... "
+	"version": "3.72",
+	"changelog": " NEW BAN ID FORMATS\nNEW CONFIG OPTIONS\nEDITABLE FUNCTIONS\nNOT DISCONNECTING AFTER BAN FIXED\nDEFERRING CONNECTION FIXED\nBUG FIXES "
 }
