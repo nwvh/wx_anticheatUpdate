@@ -1,4 +1,4 @@
 {
-	"version": "3.71",
-	"changelog": " NEW BAN ID FORMATS\nNEW CONFIG OPTIONS\nEDITABLE FUNCTIONS\nNOT DISCONNECTING AFTER BAN FIXED\nDEFERRING CONNECTION FIXED\nBUG FIXES "
+	"version": "3.75",
+	"changelog": "Removed discord-screenshot, Rewritten OCR, Explosion spam won't count flames etc., New exports and commands, ..."
 }
