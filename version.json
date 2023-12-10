@@ -1,4 +1,4 @@
 {
-	"version": "3.75",
-	"changelog": "Removed discord-screenshot, Rewritten OCR, Explosion spam won't count flames etc., New exports and commands, ..."
+	"version": "3.8",
+	"changelog": "NEW NUI Admin Panel, Fixed Dev Tools detection and more!"
 }
