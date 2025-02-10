@@ -1,10 +1,8 @@
 {
-  "version": "3.96.1",
+  "version": "3.97",
   "changelog": [
-        "Ingame Panel Rewrite",
-        "Required Identifiers",
-        "Whitelisted Weapons",
-        "New No-Clip Detections",
-        "Optimalizations and more!"
+        "Better and more secure heartbeat system",
+        "Update checking refactor",
+        "NUI Optimizations",
   ]
 }
