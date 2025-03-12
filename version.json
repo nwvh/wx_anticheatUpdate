@@ -1,8 +1,12 @@
 {
-  "version": "3.97",
+  "version": "3.99",
   "changelog": [
-        "Better and more secure heartbeat system",
-        "Update checking refactor",
-        "NUI Optimizations",
+        "Spoofed Weapons Detection",
+        "Better No-Clip Detection",
+        "Anti Spoof Feature",
+        "New command - unbanAll",
+        "Better ban logic",
+        "Bug fixed and a lot of optimizations",
+        "Check out the full changelog on our Discord"
   ]
 }
