@@ -1,12 +1,8 @@
 {
   "version": "3.99",
   "changelog": [
-        "Spoofed Weapons Detection",
-        "Better No-Clip Detection",
-        "Anti Spoof Feature",
-        "New command - unbanAll",
-        "Better ban logic",
-        "Bug fixed and a lot of optimizations",
-        "Check out the full changelog on our Discord"
+        "Heartbeat logic changes (more secure)",
+        "A lot of new detections",
+        "Bug fixes and tweaks"
   ]
 }
