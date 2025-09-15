@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "releaseDate": "1756719702",
+  "version": "1.0.1",
+  "releaseDate": "1757944111",
   "changes": [
-    "Complete code rewrite",
-    "Extreme optimizations in every aspect",
-    "Physgun Detection",
-    "Full changelog in git commits"
+    "Fixed logs not getting sent",
+    "Added missing locales",
+    "Removed unused locales",
+    "Small tweaks"
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1155068305485336587/1411827619581923358"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1417145314049261639"
 }
