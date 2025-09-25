@@ -1,11 +1,12 @@
 {
-  "version": "1.0.1",
-  "releaseDate": "1757944111",
+  "version": "1.0.2",
+  "releaseDate": "1758813867",
   "changes": [
-    "Fixed logs not getting sent",
-    "Added missing locales",
-    "Removed unused locales",
-    "Small tweaks"
+    "Magic bullet detection",
+    "OCR tweaks",
+    "Fixed 'Ban' button in Admin Menu not working",
+    "Fixed connect card not being displayed",
+    "Remove NUI Devtools detection"
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1417145314049261639"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1420794617669877972"
 }
