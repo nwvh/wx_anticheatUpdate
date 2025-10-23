@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "releaseDate": "1761227045",
   "changes": [
     "Fixed a bug where the anticheat was not applying bans while using different punishments with punishments.lua file"
