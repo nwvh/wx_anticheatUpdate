@@ -1,12 +1,8 @@
 {
   "version": "1.0.2",
-  "releaseDate": "1758813867",
+  "releaseDate": "1761227045",
   "changes": [
-    "Magic bullet detection",
-    "OCR tweaks",
-    "Fixed 'Ban' button in Admin Menu not working",
-    "Fixed connect card not being displayed",
-    "Remove NUI Devtools detection"
+    "Fixed a bug where the anticheat was not applying bans while using different punishments with punishments.lua file"
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1420794617669877972"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1430915049303703584"
 }
