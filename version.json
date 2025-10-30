@@ -1,8 +1,9 @@
 {
-  "version": "1.0.3",
-  "releaseDate": "1761227045",
+  "version": "1.0.4",
+  "releaseDate": "1761850821",
   "changes": [
-    "Fixed a bug where the anticheat was not applying bans while using different punishments with punishments.lua file"
+    "Bug fixes",
+    "UI visual bug fixes"
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1430915049303703584"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1433523336436252752"
 }
