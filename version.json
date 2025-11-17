@@ -1,9 +1,11 @@
 {
-  "version": "1.0.4",
-  "releaseDate": "1761850821",
+  "version": "1.0.5",
+  "releaseDate": "1763410461",
   "changes": [
-    "Bug fixes",
-    "UI visual bug fixes"
+    "Anti-Hook protection",
+    "Admin detection fix",
+    "Correct blacklisted particles table",
+    "Optimizations"
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1433523336436252752"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1440072565891793084"
 }
