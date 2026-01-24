@@ -1,11 +1,10 @@
 {
-  "version": "1.0.5",
-  "releaseDate": "1763410461",
+  "version": "1.0.6",
+  "releaseDate": "1769298803",
   "changes": [
-    "Anti-Hook protection",
-    "Admin detection fix",
-    "Correct blacklisted particles table",
-    "Optimizations"
+    "Trust Filter",
+    "Case-insensitive commands",
+    "Ban fix",
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1440072565891793084"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1464770046395027609"
 }
