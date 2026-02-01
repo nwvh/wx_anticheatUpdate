@@ -1,10 +1,10 @@
 {
-  "version": "1.0.6",
-  "releaseDate": "1769298803",
+  "version": "1.0.7",
+  "releaseDate": "1769986595",
   "changes": [
-    "Trust Filter",
-    "Case-insensitive commands",
-    "Ban fix",
+    "Banning logic fix",
+    "Bug fixes",
+    "Optimizations",
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1464770046395027609"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1467656492562776228"
 }
