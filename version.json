@@ -1,10 +1,11 @@
 {
-  "version": "1.0.7",
-  "releaseDate": "1769986595",
+  "version": "1.0.8",
+  "releaseDate": "1778974246",
   "changes": [
-    "Banning logic fix",
-    "Bug fixes",
-    "Optimizations",
+    "Admin panel redesign and bug fixes",
+    "Noclip detection update",
+    "Better explosive ammo detection logic",
+    "...and more"
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1467656492562776228"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1505351756098441386"
 }
