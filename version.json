@@ -1,11 +1,8 @@
 {
-  "version": "1.0.8",
-  "releaseDate": "1778974246",
+  "version": "1.0.9",
+  "releaseDate": "1780510268",
   "changes": [
-    "Admin panel redesign and bug fixes",
-    "Noclip detection update",
-    "Better explosive ammo detection logic",
-    "...and more"
+    "Discord bot integration"
   ],
-  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1505351756098441386"
+  "changelogLink": "https://discord.com/channels/1133841093545439441/1133851755826905198/1511794322822135929"
 }
